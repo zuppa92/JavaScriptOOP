@@ -9,4 +9,4 @@ let triangle = {
   }
 };
 
-// end
+// squareroots
