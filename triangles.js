@@ -12,4 +12,4 @@ function getTriangleHypotenuse(a, b) {
   return Math.sqrt(a * a + b * b);
 }
 
-// end
+// squareroots
